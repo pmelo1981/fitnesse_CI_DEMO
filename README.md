@@ -129,6 +129,6 @@ Release builds denote "blessed" releases. Those are tagged in Git along with bei
 both Maven Central and JCenter.
 
    ```
-   $ ./gradlew release
+   $ ./gradlew release.
    ```
 
